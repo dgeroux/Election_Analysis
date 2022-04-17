@@ -41,4 +41,5 @@ Below is an image of the summarized election results:
 
 ## Election Audit Summary
 The script that was created for this project can be used for **ANY** election audit, given that the election data provided is organized on a .csv file in a similar fashion (Ballot ID, County, Candidate). Even if the election data provided is organized in a different way, slight modifications can be made to accommadate these differences. This is huge!<br/>
+
 Furthermore, if the election data included other characteristics (such as demographics), the script can be modiifed to include these characteristics and provide an even more detailed analysis.
