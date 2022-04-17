@@ -12,7 +12,8 @@ The purpose of this project was to complete an election audit of a recent local 
 5. Determine the winner of the election based on popular vote. 
 
 ### The Data
-The data presented includes three columns: ballot ID, county, and candidate name.
+..*Data Source: election_results.csv
+..*Software: Python 3.10.4    Visual Studio Code 1.66.1
 
 ## Election Audit Results
 Below is an image of the summarized election results.
