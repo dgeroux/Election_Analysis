@@ -3,8 +3,9 @@
 # Election Audit with Python
 Click here to view the Python file: [Election Analysis](https://github.com/dgeroux/election_analysis/blob/main/PyPoll_Challenge.py)
 
-## Overview of Election Audit
-The purpose of this project was to complete an election audit of a recent Colorado congressional election. The follow tasks included:
+## Project Overview
+A Colorado Board of Elections employee has given me the following tasks to complete the election audit of a recent local congressional election.
+
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate received.
@@ -14,12 +15,12 @@ The purpose of this project was to complete an election audit of a recent Colora
 7. Determine the county with the highest turnout
 8. Determine the winner of the election based on popular vote. 
 
-### The Data
-Data Source: election_results.csv
-Software: Python 3.10.4    Visual Studio Code 1.66.1
+## Resources
+- Data Source: election_results.csv
+- Software: Python 3.10.4 and Visual Studio Code 1.66.1
 
 ## Election Audit Results
-Below is an image of the summarized election results.
+Below is an image of the summarized election results:
 
 ![Election Results](https://github.com/dgeroux/election_analysis/blob/main/analysis/Election_Analysis_Deliverable_2.PNG)
 The total amount of votes that were cased in the congressional election was 369,711. Denver received the most votes within this election, winning 82/8% of the total votes. Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the total votes.
