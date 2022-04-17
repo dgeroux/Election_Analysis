@@ -20,12 +20,15 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 - Software: Python 3.10.4 and Visual Studio Code 1.66.1
 
 ## Election Audit Results
+-*How many votes were cast in this congressional election?*
+-*Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.*
+-*Which county had the largest number of votes?*
+-*Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.*
+-*Which candidate won the election, what was their vote count, and what was their percentage of the total votes?*
+
 Below is an image of the summarized election results:
 
 ![Election Results](https://github.com/dgeroux/Election_Analysis/blob/main/Analysis/Election_Analysis_Deliverable_2.png)
-The total amount of votes that were cased in the congressional election was 369,711. Denver received the most votes within this election, winning 82/8% of the total votes. Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the total votes.
-
-As for the candidates, Diana DeGette received the most votes, which was 73.8% of all votes or  272,892 votes. The second place candidate, Charles Casper Stockham, received 23% of the total votes. Finally, the third candidate, Raymon Anthony Doane, only received 3.1% of the overall votes. 
 
 ## Election Audit Summary
 This script can be modified to find the most number of votes for different filters other than candidates and county. If the data included other characteristics, such as demographics and geography, the script can be modified to include these characteristics and the analysis can be broken down even further.
