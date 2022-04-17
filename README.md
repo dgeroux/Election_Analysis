@@ -20,8 +20,8 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 - Software: Python 3.10.4 and Visual Studio Code 1.66.1
 
 ## Election Audit Results
-- **How many votes were cast in this congressional election?**
-- The total amount of votes that were cast in the congressional election was 369,711.
+- **How many votes were cast in this congressional election?**<br/>
+The total amount of votes that were cast in the congressional election was 369,711.
 - **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 
 - **Which county had the largest number of votes?**
