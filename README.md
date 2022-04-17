@@ -40,6 +40,5 @@ Below is an image of the summarized election results:
 ![Election Results](https://github.com/dgeroux/Election_Analysis/blob/main/Analysis/Election_Analysis_Deliverable_2.png)
 
 ## Election Audit Summary
-This script can be modified to find the most number of votes for different filters other than candidates and county. If the data included other characteristics, such as demographics and geography, the script can be modified to include these characteristics and the analysis can be broken down even further.
-
-This script can also be modified to determine patterns among the characteristics. We could test the percentage of voters by county against each candidate. This would allow us to see which candidate was the most popular within a county or geographical area. 
+The script that was created for this project can be used for **ANY** election audit, given that the election data provided is organized on a .csv file in a similar fashion (Ballot ID, County, Candidate). Even if the election data provided is organized in a different way, slight modifications can be made to accommadate these differences. This is huge!<br/>
+Furthermore, if the election data included other characteristics (such as demographics), the script can be modiifed to include these characteristics and provide an even more detailed analysis.
