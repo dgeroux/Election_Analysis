@@ -20,11 +20,11 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 - Software: Python 3.10.4 and Visual Studio Code 1.66.1
 
 ## Election Audit Results
--*How many votes were cast in this congressional election?*
--*Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.*
--*Which county had the largest number of votes?*
--*Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.*
--*Which candidate won the election, what was their vote count, and what was their percentage of the total votes?*
+- **How many votes were cast in this congressional election?**
+- **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
+- **Which county had the largest number of votes?**
+- **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
+- **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
 
 Below is an image of the summarized election results:
 
