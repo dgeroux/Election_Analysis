@@ -22,7 +22,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 ## Election Audit Results
 Below is an image of the summarized election results:
 
-![Election Results](https://github.com/dgeroux/election_analysis/blob/main/analysis/Election_Analysis_Deliverable_2.PNG)
+![Election Results](https://github.com/dgeroux/Election_Analysis/blob/main/Analysis/Election_Analysis_Deliverable_2.png)
 The total amount of votes that were cased in the congressional election was 369,711. Denver received the most votes within this election, winning 82/8% of the total votes. Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the total votes.
 
 As for the candidates, Diana DeGette received the most votes, which was 73.8% of all votes or  272,892 votes. The second place candidate, Charles Casper Stockham, received 23% of the total votes. Finally, the third candidate, Raymon Anthony Doane, only received 3.1% of the overall votes. 
